@@ -9,7 +9,7 @@ npm start
 
  Press Character C on keyboard to open, and ESC to close window for composing message.
 
-## Note
+## Commercial break
 
 All html and css are from: http://www.w3schools.com/howto/
 <table style="border: 0">
