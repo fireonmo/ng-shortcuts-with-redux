@@ -11,7 +11,6 @@ npm start
 
 ## Commercial break
 
-All html and css are from: http://www.w3schools.com/howto/
 <table style="border: 0">
   <tr>
     <td><img width="200" src="http://www.innovic.io/assets/logo-small.png" /></td>
